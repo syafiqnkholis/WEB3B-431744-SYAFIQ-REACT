@@ -18,7 +18,7 @@ render(){
       >
         <Menu.Item key="1"><Link to="/">Home</Link></Menu.Item>
         <Menu.Item key="2"><Link to="/card">Card</Link></Menu.Item>
-        <Menu.Item key="3"><a href="https://github.com/syafiqnkholis">my github</a></Menu.Item>
+        <Menu.Item key="3"><a href="https://github.com/syafiqnkholis" target="_blank">my github</a></Menu.Item>
       </Menu>
     </Header>
   </Layout>
