@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import "./Card.css";
 
+
 const Card = (prop) => {
     return (
       <div class="card">
@@ -9,5 +10,6 @@ const Card = (prop) => {
       </div>
     )
   }
+
 
   export default Card;

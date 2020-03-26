@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import Card from "./Card";
+import Navbar from "../../common/component/navbar";
 
 const Data = () =>{
     return (
